@@ -1,0 +1,39 @@
+.choisePanel{
+  position: absolute;
+  top:55%;
+  left: 29%;
+
+}
+.textBLock{
+  font-size: 40px;
+  margin-top: 20%;
+  text-align: center;
+}
+.mainButton{
+  width: 187px;
+  height: 187px;
+  margin-left: 10px;
+}
+#paper{
+  background: url("img/paper.png") no-repeat;
+}
+#rock{
+  background: url("img/rock.png") no-repeat;
+}
+#scissors{
+  background: url("img/Scissors.png") no-repeat;
+}
+#inputPC{
+  position: absolute;
+  left: 28.7%;
+  top:5%;
+  visibility: hidden;
+}
+.refreshButton{
+  position: absolute;
+  top:2%;
+  left: 2%;
+  width: 128px;
+  height: 128px;
+  background: url("img/refresh.png") no-repeat;
+}
